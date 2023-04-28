@@ -1,13 +1,7 @@
 Hi World,
-
-
 this is venu.
+8th committed.
 
-
-
-this is 5th commit.
-
-this is 7th commit.
 
 
 
